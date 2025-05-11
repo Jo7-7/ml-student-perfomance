@@ -55,7 +55,7 @@ This project aims to predict whether a student will pass or fail using real-worl
  
 ## 👥 Group Contribution Summary
  
-| Member Name        | Contributions                                                                                  |
+| Members Name        | Contributions                                                                                  |
 |--------------------|-----------------------------------------------------------------------------------------------|
 | **Adjiey Junior**   | Led the project across all phases. In **Phase 1**, performed dataset exploration, preprocessing (EDA, missing values, outliers, encoding, scaling). In **Phase 2**, implemented and evaluated all four models. Contributed significantly to writing and structuring the final report. |
 | **Aloyem Anna**        | Contributed to **Phase 1** by helping with visualization and feature analysis. In **Phase 2**, handled model training (Decision Tree & KNN), hyperparameter tuning, and supported the metrics comparison. |
