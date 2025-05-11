@@ -6,6 +6,7 @@ This project aims to predict whether a student will pass or fail using real-worl
  
 ## 📁 Project Structure
 
+```bash
 ├── data/
 │ ├── student_data_raw.xlsx
 │ └── student_data_processed.csv
@@ -23,6 +24,7 @@ This project aims to predict whether a student will pass or fail using real-worl
 │ ├── roc_curve.png
 │
 └── README.md
+```
 
 ## ✅ Project Phases Overview
  
@@ -72,9 +74,11 @@ This project aims to predict whether a student will pass or fail using real-worl
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-username/student-performance-ml.git
+```
 Install dependencies:
- 
+```bash
 pip install -r requirements.txt
+```
 Open the notebooks in the /notebooks/ folder using Jupyter Notebook or VSCode.
  
 🧩 Requirements
