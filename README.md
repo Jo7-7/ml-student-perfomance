@@ -63,9 +63,9 @@ This project aims to predict whether a student will pass or fail using real-worl
 | Member Name        | Contributions                                                                                  |
 |--------------------|-----------------------------------------------------------------------------------------------|
 | **Adjiey Junior**   | Led the project across all phases. In **Phase 1**, performed dataset exploration, preprocessing (EDA, missing values, outliers, encoding, scaling). In **Phase 2**, implemented and evaluated all four models. Contributed significantly to writing and structuring the final report. |
-| **Member 2**        | Contributed to **Phase 1** by helping with visualization and feature analysis. In **Phase 2**, handled model training (Decision Tree & KNN), hyperparameter tuning, and supported the metrics comparison. |
-| **Member 3**        | In **Phase 2**, focused on evaluating models (precision, recall, F1), building the confusion matrices, and plotting ROC curves. Also participated in reviewing preprocessing logic. |
-| **Member 4**        | Took charge of **Phase 3** – Insights, Recommendations, and Future Work. Finalized the formatting of the report, organized project folders, and structured the GitHub repository. Helped with dataset cleaning in Phase 1. |
+| **Aloyem Anna**        | Contributed to **Phase 1** by helping with visualization and feature analysis. In **Phase 2**, handled model training (Decision Tree & KNN), hyperparameter tuning, and supported the metrics comparison. |
+| **Joel Tiendrebeogo**  | In **Phase 2**, focused on evaluating models (precision, recall, F1), building the confusion matrices, and plotting ROC curves. Also participated in reviewing preprocessing logic. |
+| **Josué KOFFI**        | Took charge of **Phase 3** – Insights, Recommendations, and Future Work. Finalized the formatting of the report, organized project folders, and structured the GitHub repository. Helped with dataset cleaning in Phase 1. |
  
 > All team members actively participated in reviewing each phase and committed to GitHub regularly to ensure full collaboration and transparency.
 
@@ -81,7 +81,7 @@ pip install -r requirements.txt
 ```
 Open the notebooks in the /notebooks/ folder using Jupyter Notebook or VSCode.
  
-🧩 Requirements
+## 🧩 Requirements
 Python 3.8+
  
 pandas
@@ -96,5 +96,5 @@ seaborn
  
 openpyxl (for reading .xlsx files)
  
-📜 License
+## 📜 License
 This project was completed for academic purposes and is not intended for production or commercial use.
