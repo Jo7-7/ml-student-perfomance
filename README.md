@@ -18,9 +18,6 @@ This project aims to predict whether a student will pass or fail using real-worl
 ├── report/
 │ └── final_project_report.pdf
 │
-├── figures/
-│ ├── confusion_matrix.png
-│ ├── roc_curve.png
 │
 └── README.md
 ```
