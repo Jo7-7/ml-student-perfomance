@@ -13,8 +13,7 @@ This project aims to predict whether a student will pass or fail using real-worl
 │
 ├── notebooks/
 │ ├── phase1_eda.ipynb
-│ ├── phase2_models.ipynb
-│ └── phase3_insights.ipynb
+│ └── phase2_models.ipynb
 │
 ├── report/
 │ └── final_project_report.pdf
