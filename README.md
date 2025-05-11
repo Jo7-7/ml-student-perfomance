@@ -8,7 +8,7 @@ This project aims to predict whether a student will pass or fail using real-worl
 
 ```bash
 ├── data/
-│ ├── student_data_raw.xlsx
+│ ├── student_data.csv
 │ └── student_data_processed.csv
 │
 ├── notebooks/
