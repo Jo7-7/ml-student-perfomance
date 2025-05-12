@@ -66,7 +66,7 @@ This project aims to predict whether a student will pass or fail using real-worl
 
 ## 🔗 How to Run the Project
  
-1. Clone the repository:
+Clone the repository:
 ```bash
 git clone https://github.com/your-username/student-performance-ml.git
 ```
@@ -74,7 +74,10 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-Open the notebooks in the /notebooks/ folder using Jupyter Notebook or VSCode.
+Run notebooks:
+```bash
+Open phase1_eda.ipynb and phase2_models.ipynb from the /notebooks folder using Jupyter Notebook or Google Colab.
+```
  
 ## 🧩 Requirements
 Python 3.8+
@@ -88,8 +91,12 @@ scikit-learn
 matplotlib
  
 seaborn
- 
-openpyxl (for reading .xlsx files)
+
+You can generate a requirements.txt file by running:
+
+```bash
+pip freeze > requirements.txt
+```
  
 ## 📜 License
-This project was completed for academic purposes and is not intended for production or commercial use.
+This project is intended for educational purposes only. Not for commercial use or real-world deployment.
